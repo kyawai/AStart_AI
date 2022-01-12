@@ -1,0 +1,8 @@
+How to:
+The program can be ran by clicking the exe file under release, this will run the maze from brightspace. 6 x 4. maze 1. This is the same for both of the programs.
+To change the maze (using the ones that are already inside the folder) there are 2 lines of code that need the name of the file changing.
+In the A* code, which is marked by the folder : AI_ASSIGNMENT_ASTAR -> ai_firstdec -> maze_AI. The inputs for the maze that needs to be changed are on lines:
+82 and 278.
+In the Genetic Algorithm code, which is marked by the folder: AI_ASSIGNMENT_GA -> ai_firstdec -> maze_AI. The inputs for the maze that needs to be changed are on lines:
+44 and 674.
+After being changed the programs can then be run using the exectuable file and will display and solve the new maze.
